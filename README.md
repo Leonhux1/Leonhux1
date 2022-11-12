@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Faizan Rafieuddin
+- 👋 Hi, my name is Faizan Rafieuddin
 - 👀 I’m interested in Full-Stack Software Development and Software Engineering
 - 🌱 I’m currently learning about Databases, Spring Boot, C Programming Language and Computational Theory
 - 💞️ I’m looking to collaborate on different different projects be it Frontend, Backend, or Full-Stack!
